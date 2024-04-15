@@ -1,31 +1,9 @@
-# Module 14 Challenge
+# Exploring Belly Button Biodiversity: An Interactive Dashboard
 
-## Background
-In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels.
+## Introduction
+This assignment involves building an interactive dashboard to explore the Belly Button Biodiversity dataset, which documents the microbial species present in human navels. The dataset highlights that a few microbial species are common across individuals, while others are relatively rare.
 
-The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
-
-## Before You Begin
-1. Create a new repository for this project called belly-button-challenge. Do not add this Challenge to an existing repository.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, copy the files from in the StarterCode folder contained within the Module 14 Challenge zip file. i.e. index.html, samples.json, and the static folder.
-
-4. Push the above changes to GitHub.
-
-5. Deploy the new repository to GitHub Pages.
-
-### NOTE
-
-You will not be required to access the samples.json file locally, but it is provided for reference.
-
-## Files
-Download the following files to help you get started:
-
-Module 14 Challenge filesLinks to an external site.
-
-Instructions
+## Instructions
 Complete the following steps:
 
 1. Use the D3 library to read in samples.json from the URL https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json.
@@ -57,3 +35,6 @@ Complete the following steps:
 6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+
+###References
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
